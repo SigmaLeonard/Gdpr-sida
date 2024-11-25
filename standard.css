@@ -3,3 +3,13 @@
     top: 0;
     left: 100;
 }
+
+.img3 {
+    position: absolute; /* Gör att du kan placera bilden fritt */
+    top: 0; /* Sätter avståndet från toppen till 0 */
+    left: 0; /* Sätter avståndet från vänster till 0 */
+    margin: 0; /* Tar bort eventuella marginaler */
+    padding: 0; /* Tar bort eventuella inre marginaler */
+}
+
+
