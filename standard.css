@@ -1,5 +1,5 @@
 .img-upphov {
-    position: absolute; /* Gör att du kan placera bilden fritt */
+     /* Gör att du kan placera bilden fritt */
     top: 1; /* Sätter avståndet från toppen till 0 */
     right: 1; /* Sätter avståndet från vänster till 0 */
     margin: 0; /* Tar bort eventuella marginaler */
@@ -9,7 +9,7 @@
 }
 
 .img-start{
-    position: absolute; /* Gör att du kan placera bilden fritt */
+     /* Gör att du kan placera bilden fritt */
     top: 1; /* Sätter avståndet från toppen till 0 */
     right: 1; /* Sätter avståndet från vänster till 0 */
     margin: 0; /* Tar bort eventuella marginaler */
@@ -19,7 +19,7 @@
 }
 
 .img-säkerhet{
-    position: absolute; /* Gör att du kan placera bilden fritt */
+     /* Gör att du kan placera bilden fritt */
     top: 0; /* Sätter avståndet från toppen till 0 */
     right: 0; /* Sätter avståndet från vänster till 0 */
     margin: 0; /* Tar bort eventuella marginaler */
@@ -29,7 +29,7 @@
 }
 
 .img-elektronisk{
-    position: absolute; /* Gör att du kan placera bilden fritt */
+     /* Gör att du kan placera bilden fritt */
     top: 1; /* Sätter avståndet från toppen till 0 */
     right: 1; /* Sätter avståndet från vänster till 0 */
     margin: 0; /* Tar bort eventuella marginaler */
@@ -39,7 +39,7 @@
 }
 
 .img-gdpr{
-    position: absolute; /* Gör att du kan placera bilden fritt */
+    /* Gör att du kan placera bilden fritt */
     top: 1; /* Sätter avståndet från toppen till 0 */
     right: 1; /* Sätter avståndet från vänster till 0 */
     margin: 0; /* Tar bort eventuella marginaler */
