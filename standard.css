@@ -191,6 +191,37 @@ h2 {
     border-radius: 25px;
 }
 
+.gdpr-länk{
+    background-color: rgb(254, 254, 254);
+    position: absolute;
+    left: 35%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 5%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    border-radius: 25px;
+    padding: 20px; 
+    width: 25%;
+    height: auto;
+}
 
+.imgDiv6{
+    display: flex;
+    position: absolute;
+    left: 46%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 5%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    margin: 0;
+    padding: 0;
+    height: 30%;
+    width: auto;
+}
 
+.Div7{
+    background-color: aliceblue;
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 20%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 40%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 30%;
+    width: 50%;
+}
 
