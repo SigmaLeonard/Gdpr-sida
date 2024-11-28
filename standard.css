@@ -261,4 +261,56 @@ h2 {
     width: 50%;
 }
 
+.upphov-länk{
+    background-color: rgb(254, 254, 254);
+    position: absolute;
+    left: 35%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 2%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    border-radius: 25px;
+    padding: 20px; 
+    width: 25%;
+    height: auto;
+}
+
+.upphov-img{
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 50%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 13%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-upphov{
+    height: 160%;
+    width: auto;
+    border-radius: 25px;
+}
+
+.Div11{
+    background-color: aliceblue;
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 23%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 42%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 42%;
+    width: 50%;
+}
+
+.Div12{
+    background-color: aliceblue;
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 23%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 92%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 66%;
+    width: 50%;
+}
+
 
