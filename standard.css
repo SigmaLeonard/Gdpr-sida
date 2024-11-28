@@ -1,63 +1,110 @@
 .img-upphov {
-     /* Gör att du kan placera bilden fritt */
-    position: relative;
-    top: 1px; /* Sätter avståndet från toppen till 0 */
-    right: 1px; /* Sätter avståndet från vänster till 0 */
-    margin: 0; /* Tar bort eventuella marginaler */
-    padding: 0; /* Tar bort eventuella inre marginaler */
-    width: 250px;
-    height: auto;
-}
-
-.img-start{
-     /* Gör att du kan placera bilden fritt */
-    position: relative;
-    top: 1px; /* Sätter avståndet från toppen till 0 */
-    right: 1px; /* Sätter avståndet från vänster till 0 */
-    margin: 0; /* Tar bort eventuella marginaler */
-    padding: 0; /* Tar bort eventuella inre marginaler */
-    width: 250px;
-    height: auto;
-}
-
-.img-säkerhet{
-     /* Gör att du kan placera bilden fritt */
-    position: relative;
-    top: 1px; /* Sätter avståndet från toppen till 0 */
-    right: 1px; /* Sätter avståndet från vänster till 0 */
-    margin: 0; /* Tar bort eventuella marginaler */
-    padding: 0; /* Tar bort eventuella inre marginaler */
-    width: 250px;
-    height: auto;
-}
-
-.img-elektronisk{
-     /* Gör att du kan placera bilden fritt */
-    position: relative;
-    top: 1px; /* Sätter avståndet från toppen till 0 */
-    right: 1px; /* Sätter avståndet från vänster till 0 */
-    margin: 0; /* Tar bort eventuella marginaler */
-    padding: 0; /* Tar bort eventuella inre marginaler */
-    width: 250px;
-    height: auto;
-}
-
-.img-gdpr{
     /* Gör att du kan placera bilden fritt */
     position: relative;
-    top: 1px; /* Sätter avståndet från toppen till 0 */
-    right: 1px; /* Sätter avståndet från vänster till 0 */
-    margin: 0; /* Tar bort eventuella marginaler */
-    padding: 0; /* Tar bort eventuella inre marginaler */
+    top: 1px;
+    /* Sätter avståndet från toppen till 0 */
+    right: 1px;
+    /* Sätter avståndet från vänster till 0 */
+    margin: 0;
+    /* Tar bort eventuella marginaler */
+    padding: 0;
+    /* Tar bort eventuella inre marginaler */
     width: 250px;
     height: auto;
 }
 
+.img-säkerhet {
+    /* Gör att du kan placera bilden fritt */
+    position: relative;
+    top: 1px;
+    /* Sätter avståndet från toppen till 0 */
+    right: 1px;
+    /* Sätter avståndet från vänster till 0 */
+    margin: 0;
+    /* Tar bort eventuella marginaler */
+    padding: 0;
+    /* Tar bort eventuella inre marginaler */
+    width: 250px;
+    height: auto;
+}
 
+.img-elektronisk {
+    /* Gör att du kan placera bilden fritt */
+    position: relative;
+    top: 1px;
+    /* Sätter avståndet från toppen till 0 */
+    right: 1px;
+    /* Sätter avståndet från vänster till 0 */
+    margin: 0;
+    /* Tar bort eventuella marginaler */
+    padding: 0;
+    /* Tar bort eventuella inre marginaler */
+    width: 250px;
+    height: auto;
+}
 
+.img-gdpr {
+    /* Gör att du kan placera bilden fritt */
+    position: relative;
+    top: 1px;
+    /* Sätter avståndet från toppen till 0 */
+    right: 1px;
+    /* Sätter avståndet från vänster till 0 */
+    margin: 0;
+    /* Tar bort eventuella marginaler */
+    padding: 0;
+    /* Tar bort eventuella inre marginaler */
+    width: 250px;
+    height: auto;
+}
 
+.header1 {
+    display: flex;
+    flex-direction: row;
+}
 
+.header1 div {
+    width: 50%;
+}
 
+.imgDiv {
+    background-color: red;
+    display: flex;
+    position: absolute;
+    left: 60%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 10%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    margin: 0;
+    padding: 0;
+    width: 35dvw;
+    height: auto;
+}
 
+.image {
+    position: absolute;
+    margin: 0;
+    /* Tar bort eventuella marginaler */
+    padding: 0;
+    /* Tar bort eventuella inre marginaler */
+    width: 100%;
+    top: 0;
+    height: auto;
+}
 
+.länkbox{
+    background-color: rgb(254, 254, 254);
+    background-size: auto;
+    position: absolute;
+    left: 5%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 5%; /* ÄNDRA POSITION FRÅN TOPPEN */
+}
 
+.startText{
+    background-color: rgb(255, 213, 0);
+    position: absolute;
+    left: 5%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 40%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    margin: 0;
+    padding: 0;
+    width: 50dvw;
+    height: auto;
+}
