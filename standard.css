@@ -195,7 +195,7 @@ h2 {
     background-color: rgb(254, 254, 254);
     position: absolute;
     left: 35%; /* ÄNDRA POSITION FRÅN VÄNSTER */
-    top: 5%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    top: 2%; /* ÄNDRA POSITION FRÅN TOPPEN */
     border-radius: 25px;
     padding: 20px; 
     width: 25%;
@@ -219,9 +219,46 @@ h2 {
     position: absolute;
     padding:10px;
     margin: 0;
-    left: 20%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    left: 23%; /* ÄNDRA POSITION FRÅN VÄNSTER */
     top: 40%; /* ÄNDRA POSITION FRÅN TOPPEN */
-    height: 30%;
+    height: 53%;
     width: 50%;
 }
+
+.Div8{
+    background-color: aliceblue;
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 23%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 100%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 50%;
+    width: 50%;
+}
+
+.Div9{
+    background-color: aliceblue;
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 23%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 157%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 48%;
+    width: 50%;
+}
+
+.Div10{
+    background-color: aliceblue;
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 23%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 212%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 35%;
+    width: 50%;
+}
+
 
