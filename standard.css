@@ -71,8 +71,8 @@
     background-color: red;
     display: flex;
     position: absolute;
-    left: 60%; /* ÄNDRA POSITION FRÅN VÄNSTER */
-    top: 10%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    left: 40%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 7%; /* ÄNDRA POSITION FRÅN TOPPEN */
     margin: 0;
     padding: 0;
     width: 35dvw;
@@ -81,30 +81,116 @@
 
 .image {
     position: absolute;
+    left: 1%;
+    top: 100%;
     margin: 0;
-    /* Tar bort eventuella marginaler */
     padding: 0;
     /* Tar bort eventuella inre marginaler */
-    width: 100%;
+    width: 40%;
     top: 0;
     height: auto;
 }
 
 .länkbox{
     background-color: rgb(254, 254, 254);
-    background-size: auto;
     position: absolute;
-    left: 5%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    left: 20%; /* ÄNDRA POSITION FRÅN VÄNSTER */
     top: 5%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    border-radius: 25px;
+    padding: 20px; 
+    width: 50px;
+    height: 165px;
 }
 
 .startText{
     background-color: rgb(255, 213, 0);
     position: absolute;
-    left: 5%; /* ÄNDRA POSITION FRÅN VÄNSTER */
-    top: 40%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    left: 20%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 42%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    border-radius: 25px;
+    margin: 0;
+    padding: 10px;
+    width: 100px;
+    height: 300x;
+}
+
+.girl-image{
+    position: absolute;
+    left: 55%;
+    top: 100%;
+    border-radius: 25px;
     margin: 0;
     padding: 0;
-    width: 50dvw;
+    /* Tar bort eventuella inre marginaler */
+    width: 12%;
+    top: 0;
     height: auto;
 }
+
+.imgDiv2{
+    background-color: red;
+    display: flex;
+    position: absolute;
+    left: 0%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 6%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    margin: 0;
+    padding: 0;
+    width: 100dvw;
+    height: auto;
+}
+
+h2 {
+    font-size: 25px; /* Change 24px to the desired size */
+}
+
+.imgDiv3{
+    background-color: red;
+    display: flex;
+    position: absolute;
+    left: 1%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 9%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
+
+.nti-tek{
+    position: absolute;
+    border-radius: 25px;
+}
+
+.imgDiv4{
+    background-color: red;
+    display: flex;
+    position: absolute;
+    left: 1%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 50%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
+
+.img-nti{
+    position: absolute;
+    border-radius: 25px;
+}
+
+.imgDiv5{
+    display: flex;
+    position: absolute;
+    left: 74%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 2.5%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    margin: 0;
+    padding: 0;
+    height: 95%;
+    width: 30%;
+    border-radius: 25px;
+}
+
+.img-eclipse{
+    border-radius: 25px;
+}
+
+
+
+
