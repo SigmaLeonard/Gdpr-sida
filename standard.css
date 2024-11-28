@@ -313,4 +313,44 @@ h2 {
     width: 50%;
 }
 
+.elektronisk-länk{
+    background-color: rgb(254, 254, 254);
+    position: absolute;
+    left: 35%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 2%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    border-radius: 25px;
+    padding: 20px; 
+    width: 25%;
+    height: auto;
+}
+
+.elektronisk-img{
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 50%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 12%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-elektronisk{
+    height: 160%;
+    width: auto;
+    border-radius: 25px;
+}
+
+.Div13{
+    background-color: aliceblue;
+    border-radius: 25px;
+    position: absolute;
+    padding:10px;
+    margin: 0;
+    left: 23%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 46%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 54%;
+    width: 50%;
+}
+
 
