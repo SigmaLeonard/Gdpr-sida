@@ -455,3 +455,88 @@ h2 {
     width: auto;
     border-radius: 25px;
 }
+
+.c-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 0.3%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 3%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-c{
+    height: 450%;
+    width: auto;
+    border-radius: 25px;
+}
+
+.hörlurarjord-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 0.3%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 50%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-hörlurarjord{
+    height: 450%;
+    width: auto;
+    border-radius: 25px;
+}
+
+.warrior-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 75%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 5%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-warrior{
+    height: 900%;
+    width: auto;
+    border-radius: 25px;
+}
+
+.kakor-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 76%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 15%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-kakor{
+    height: 700%;
+    width: auto;
+    border-radius: 25px;
+}
+
+.drippychoc-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 1.5%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 8%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-drippychoc{
+    height: 800%;
+    width: auto;
+    border-radius: 25px;
+}
