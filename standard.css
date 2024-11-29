@@ -405,4 +405,53 @@ h2 {
     width: 50%;
 }
 
+.liberty-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 0.3%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 1%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
 
+.img-liberty{
+    height: 950%;
+    width: auto;
+    border-radius: 25px;
+}
+
+.eu-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 75%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 7.5%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-eu{
+    height: 350%;
+    width: auto;
+    border-radius: 25px;
+}
+
+.lagbok-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 77.5%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 50%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-lagbok{
+    height: 450%;
+    width: auto;
+    border-radius: 25px;
+}
