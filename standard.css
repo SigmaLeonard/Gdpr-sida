@@ -540,3 +540,37 @@ h2 {
     width: auto;
     border-radius: 25px;
 }
+
+.key-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 77%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 8%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-key{
+    height: 800%;
+    width: 180%;
+    border-radius: 25px;
+}
+
+.hack-img{
+    border-radius: 25px;
+    position: fixed;
+    padding:10px;
+    margin: 0;
+    left: 1.5%; /* ÄNDRA POSITION FRÅN VÄNSTER */
+    top: 8%; /* ÄNDRA POSITION FRÅN TOPPEN */
+    height: 10%;
+    width: 10%;
+}
+
+.img-hack{
+    height: 800%;
+    width: 180%;
+    border-radius: 25px;
+}
